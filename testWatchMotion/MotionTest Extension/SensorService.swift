@@ -17,6 +17,7 @@ class SensorService: NSObject {
     func startService(){
         print("::::::::::::::::::::: started Motion detect :::::::::::::::::::::")
         motionManager.accelerometerUpdateInterval = 0.1
+        motionManager.gyroUpdateInterval = 0.1
         if motionManager.isAccelerometerAvailable {
             let accelHandler:CMAccelerometerHandler = {accel, error in
                 print("Accel: " + String(format: "%.2f  ", accel!.acceleration.x) + String(format: "%.2f  ", accel!.acceleration.y) + String(format: "%.2f  ", accel!.acceleration.z))

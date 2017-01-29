@@ -285,7 +285,7 @@
 				TargetAttributes = {
 					1186A0F41D5B23C000A5CAF5 = {
 						CreatedOnToolsVersion = 8.0;
-						DevelopmentTeam = YBFAQB2XKJ;
+						DevelopmentTeam = J82E7D76Q3;
 						ProvisioningStyle = Automatic;
 					};
 					1186A1081D5B23C000A5CAF5 = {
@@ -295,12 +295,12 @@
 					};
 					1186A1191D5B23E400A5CAF5 = {
 						CreatedOnToolsVersion = 8.0;
-						DevelopmentTeam = YBFAQB2XKJ;
+						DevelopmentTeam = J82E7D76Q3;
 						ProvisioningStyle = Automatic;
 					};
 					1186A1251D5B23E400A5CAF5 = {
 						CreatedOnToolsVersion = 8.0;
-						DevelopmentTeam = YBFAQB2XKJ;
+						DevelopmentTeam = J82E7D76Q3;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -535,7 +535,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = YBFAQB2XKJ;
+				DEVELOPMENT_TEAM = J82E7D76Q3;
 				INFOPLIST_FILE = testWatchMotion/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = smartmongol.testWatchMotion;
@@ -548,7 +548,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = YBFAQB2XKJ;
+				DEVELOPMENT_TEAM = J82E7D76Q3;
 				INFOPLIST_FILE = testWatchMotion/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = smartmongol.testWatchMotion;
@@ -585,7 +585,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_COMPLICATION_NAME = Complication;
-				DEVELOPMENT_TEAM = YBFAQB2XKJ;
+				DEVELOPMENT_TEAM = J82E7D76Q3;
 				INFOPLIST_FILE = "MotionTest Extension/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = smartmongol.testWatchMotion.watchkitapp.watchkitextension;
@@ -602,7 +602,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_COMPLICATION_NAME = Complication;
-				DEVELOPMENT_TEAM = YBFAQB2XKJ;
+				DEVELOPMENT_TEAM = J82E7D76Q3;
 				INFOPLIST_FILE = "MotionTest Extension/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = smartmongol.testWatchMotion.watchkitapp.watchkitextension;
@@ -620,7 +620,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = YBFAQB2XKJ;
+				DEVELOPMENT_TEAM = J82E7D76Q3;
 				IBSC_MODULE = MotionTest_Extension;
 				INFOPLIST_FILE = MotionTest/Info.plist;
 				PRODUCT_BUNDLE_IDENTIFIER = smartmongol.testWatchMotion.watchkitapp;
@@ -638,7 +638,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = YBFAQB2XKJ;
+				DEVELOPMENT_TEAM = J82E7D76Q3;
 				IBSC_MODULE = MotionTest_Extension;
 				INFOPLIST_FILE = MotionTest/Info.plist;
 				PRODUCT_BUNDLE_IDENTIFIER = smartmongol.testWatchMotion.watchkitapp;
@@ -670,6 +670,7 @@
 				1186A1141D5B23C000A5CAF5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1186A1151D5B23C000A5CAF5 /* Build configuration list for PBXNativeTarget "testWatchMotionUITests" */ = {
 			isa = XCConfigurationList;
@@ -678,6 +679,7 @@
 				1186A1171D5B23C000A5CAF5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1186A1391D5B23E500A5CAF5 /* Build configuration list for PBXNativeTarget "MotionTest Extension" */ = {
 			isa = XCConfigurationList;
@@ -686,6 +688,7 @@
 				1186A13B1D5B23E500A5CAF5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1186A13D1D5B23E500A5CAF5 /* Build configuration list for PBXNativeTarget "MotionTest" */ = {
 			isa = XCConfigurationList;
@@ -694,6 +697,7 @@
 				1186A13F1D5B23E500A5CAF5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

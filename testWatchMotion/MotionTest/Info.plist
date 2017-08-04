@@ -26,7 +26,7 @@
 		<string>UIInterfaceOrientationPortraitUpsideDown</string>
 	</array>
 	<key>WKCompanionAppBundleIdentifier</key>
-	<string>smartmongol.testWatchMotion</string>
+	<string>com.phigolf.watchMotionTest</string>
 	<key>WKWatchKitApp</key>
 	<true/>
 </dict>
